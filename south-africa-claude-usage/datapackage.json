@@ -1,0 +1,175 @@
+{
+ "name": "south-africa-claude-usage",
+ "title": "How South Africans use Claude: Anthropic Economic Index, May 2026",
+ "description": "Claude usage in South Africa, its four provinces with published figures and 26 African countries, from the Anthropic Economic Index (period 1 May 2026): the Anthropic Usage Index and rank, work, personal and coursework shares, augmentation and automation, and South Africa's top request topics, job categories and tasks against the world.",
+ "version": "2026.11.0",
+ "created": "2026-11-07",
+ "homepage": "https://mzansidata.co.za/data/downloads#south-africa-claude-usage",
+ "keywords": [
+  "Anthropic Economic Index",
+  "Claude usage South Africa",
+  "AI use South Africa",
+  "AI adoption Africa",
+  "CSV"
+ ],
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0 International"
+  }
+ ],
+ "usageInfo": "The Anthropic Economic Index data is released by Anthropic under CC BY 4.0 (code under MIT). These tables are a selection from it, reshaped by MzansiData. If you use them, credit \"Anthropic Economic Index, Anthropic, CC BY 4.0\" and MzansiData for the tables, and say if you changed them.",
+ "contributors": [
+  {
+   "title": "MzansiData",
+   "path": "https://mzansidata.co.za",
+   "role": "publisher"
+  },
+  {
+   "title": "Anthropic",
+   "path": "https://www.anthropic.com/economic-index",
+   "role": "author"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Anthropic Economic Index (dataset metadata: publisher Anthropic, licence CC BY 4.0, latest period 2026-05-01, modified 2026-06-24)",
+   "path": "https://www.anthropic.com/economic-index",
+   "retrieved": "2026-10-31",
+   "note": "Read through the Anthropic Economic Index MCP tools (econ_index_*), not a downloaded file, so there is no file checksum. The same data is published at https://huggingface.co/datasets/Anthropic/EconomicIndex (\"Data released under CC-BY, code released under MIT License\")."
+  }
+ ],
+ "resources": [
+  {
+   "name": "claude-usage-geographies",
+   "title": "Usage by geography: the world, 26 African countries and 4 South African provinces",
+   "path": "claude-usage-geographies.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "bytes": 2170,
+   "hash": "sha256:8486f9b20453bddda0c9b448e34f27b3c3b7e418793f47997f177960ee5d9410",
+   "rows": 31,
+   "schema": {
+    "fields": [
+     {
+      "name": "geography_level",
+      "type": "string",
+      "description": "world, country or province"
+     },
+     {
+      "name": "code",
+      "type": "string",
+      "description": "ISO 3166-1 alpha-3 for countries, ISO 3166-2 for provinces; blank for the world"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "Geography name as published"
+     },
+     {
+      "name": "usage_index",
+      "type": "number",
+      "description": "Anthropic Usage Index (countries only): share of usage divided by share of working-age population"
+     },
+     {
+      "name": "rank",
+      "type": "integer",
+      "description": "Rank by usage index (countries, of rank_of) or by share of South Africa's usage (provinces)"
+     },
+     {
+      "name": "rank_of",
+      "type": "integer",
+      "description": "How many geographies the rank is out of"
+     },
+     {
+      "name": "share_of_country_usage_pct",
+      "type": "number",
+      "description": "Provinces: share of South Africa's observed Claude usage, %"
+     },
+     {
+      "name": "work_pct",
+      "type": "number",
+      "description": "Share of classified conversations that look like work, %"
+     },
+     {
+      "name": "personal_pct",
+      "type": "number",
+      "description": "Share that look like personal life, %"
+     },
+     {
+      "name": "coursework_pct",
+      "type": "number",
+      "description": "Share that look like coursework, %"
+     },
+     {
+      "name": "augmentation_pct",
+      "type": "number",
+      "description": "Share in augmentation style (the person stays involved), %"
+     },
+     {
+      "name": "automation_pct",
+      "type": "number",
+      "description": "Share in automation style (the person directs Claude to complete the task), %"
+     },
+     {
+      "name": "top_request_topic",
+      "type": "string",
+      "description": "Provinces: the most common request topic"
+     },
+     {
+      "name": "top_request_topic_pct",
+      "type": "number",
+      "description": "Provinces: that topic's share of the province's conversations, %"
+     },
+     {
+      "name": "education_topic_pct",
+      "type": "number",
+      "description": "Provinces: share of conversations on Education & Learning, %"
+     }
+    ]
+   }
+  },
+  {
+   "name": "claude-usage-za-breakdown",
+   "title": "South Africa: top request topics, job categories and tasks against the world",
+   "path": "claude-usage-za-breakdown.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "bytes": 2011,
+   "hash": "sha256:2182e6150a7549eb8af2575842f239ba510e0f0a39080ba6b2c77b27d08b37eb",
+   "rows": 28,
+   "schema": {
+    "fields": [
+     {
+      "name": "facet",
+      "type": "string",
+      "description": "request_topic (top 10), job_category (top 10) or task (top 8)"
+     },
+     {
+      "name": "rank",
+      "type": "integer",
+      "description": "Rank within the facet in South Africa"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "Topic, job category (O*NET major group) or task (O*NET task statement), as published"
+     },
+     {
+      "name": "za_pct",
+      "type": "number",
+      "description": "Share of South Africa's classified conversations, %"
+     },
+     {
+      "name": "global_pct",
+      "type": "number",
+      "description": "The same share for all covered countries, %"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "name": "south-africa-population-2002-2026",
+ "title": "South Africa's mid-year population by province, 2002 to 2026 (Stats SA, 2026 series)",
+ "description": "Mid-year population of South Africa and its nine provinces for every year from 2002 to 2026, all from Stats SA's 2026 mid-year population estimates (P0302), summed from Stats SA's district council projection by sex and age.",
+ "version": "2026.11.0",
+ "created": "2026-11-07",
+ "homepage": "https://mzansidata.co.za/data/downloads#south-africa-population-2002-2026",
+ "keywords": [
+  "South Africa population",
+  "population by province",
+  "Stats SA mid-year population estimates",
+  "P0302",
+  "CSV"
+ ],
+ "licenses": [
+  {
+   "name": "Stats-SA-copyright-notice",
+   "path": "https://www.statssa.gov.za/?page_id=425",
+   "title": "Stats SA copyright notice: use with acknowledgement of Stats SA as the source"
+  }
+ ],
+ "usageInfo": "Stats SA's copyright notice (https://www.statssa.gov.za/?page_id=425, read 7 November 2026) says: \"Users may apply the information as they wish, provided that they acknowledge Stats SA as the source of the basic data wherever they process, apply, utilise, publish or distribute the data, and also that they specify that the relevant application and analysis (where applicable) result from their own processing of the data.\" These tables are MzansiData's processing of Stats SA's data. If you use them, name Stats SA as the source of the basic data and say that any analysis is your own.",
+ "contributors": [
+  {
+   "title": "MzansiData",
+   "path": "https://mzansidata.co.za",
+   "role": "publisher"
+  },
+  {
+   "title": "Statistics South Africa (Stats SA)",
+   "path": "https://www.statssa.gov.za",
+   "role": "author"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Stats SA, Mid-year population estimates 2026, P0302 (released 30 July 2026), supplementary workbook \"District Council projection by sex and age (2002-2026)\"",
+   "path": "https://www.statssa.gov.za/publications/P0302/District%20Council%20projection%20by%20sex%20and%20age%20(2002-2026)_web.xlsx",
+   "retrieved": "2026-11-01",
+   "bytes": 695864,
+   "sha256": "3fd9b21f495f5d35da0f2b589eb17775f12aea1aec762b4b1a28a5963abc47ae"
+  }
+ ],
+ "resources": [
+  {
+   "name": "sa-population-2002-2026",
+   "title": "Mid-year population, South Africa and the nine provinces, 2002 to 2026",
+   "path": "sa-population-2002-2026.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "bytes": 6242,
+   "hash": "sha256:e390876eefb6f57a94104f231fcb877fdf6e49c4d8612e2569a93bfdb7398997",
+   "rows": 250,
+   "schema": {
+    "fields": [
+     {
+      "name": "year",
+      "type": "integer",
+      "description": "Year (mid-year estimate, 30 June)"
+     },
+     {
+      "name": "geography",
+      "type": "string",
+      "description": "South Africa or a province"
+     },
+     {
+      "name": "population",
+      "type": "integer",
+      "description": "Mid-year population, people"
+     }
+    ]
+   }
+  }
+ ]
+}

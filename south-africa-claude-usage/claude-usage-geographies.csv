@@ -1,0 +1,32 @@
+geography_level,code,name,usage_index,rank,rank_of,share_of_country_usage_pct,work_pct,personal_pct,coursework_pct,augmentation_pct,automation_pct,top_request_topic,top_request_topic_pct,education_topic_pct
+world,,All covered countries,,,,,43.36,40.2,16.45,51.38,48.62,,,
+country,MUS,Mauritius,1.74,38,121,,49.36,32.8,17.84,,,,,
+country,TUN,Tunisia,1.4,48,121,,27.94,20.54,51.52,,,,,
+country,MAR,Morocco,0.9,66,121,,34.51,30.6,34.89,,,,,
+country,DZA,Algeria,0.56,81,121,,21.8,31.08,47.12,,,,,
+country,BWA,Botswana,0.52,85,121,,35.48,27.19,37.33,,,,,
+country,ZAF,South Africa,0.46,86,121,,44.13,30.2,25.67,48.57,51.43,,,
+country,NAM,Namibia,0.44,88,121,,35.85,27.78,36.38,,,,,
+country,SEN,Senegal,0.41,92,121,,36.99,28.1,34.91,,,,,
+country,BEN,Benin,0.39,94,121,,39.95,33.02,27.03,,,,,
+country,GHA,Ghana,0.38,95,121,,37.78,32.64,29.57,,,,,
+country,CMR,Cameroon,0.38,95,121,,32.4,26.5,41.1,,,,,
+country,EGY,Egypt,0.36,98,121,,40.78,31.07,28.15,,,,,
+country,KEN,Kenya,0.34,100,121,,51.15,30.05,18.8,,,,,
+country,CIV,Ivory Coast,0.3,102,121,,40.62,31.81,27.57,,,,,
+country,NGA,Nigeria,0.24,106,121,,47.64,34.73,17.63,,,,,
+country,COG,Republic of the Congo,0.24,106,121,,33.77,34.85,31.38,,,,,
+country,TGO,Togo,0.22,109,121,,39.53,34.17,26.3,,,,,
+country,RWA,Rwanda,0.2,111,121,,41.62,23.62,34.76,,,,,
+country,ZWE,Zimbabwe,0.2,111,121,,38.14,22.29,39.57,,,,,
+country,BFA,Burkina Faso,0.15,113,121,,30.98,30.26,38.76,,,,,
+country,ZMB,Zambia,0.15,113,121,,36.41,28.87,34.72,,,,,
+country,UGA,Uganda,0.11,116,121,,42.06,24.82,33.12,,,,,
+country,AGO,Angola,0.1,118,121,,37.46,34.02,28.51,,,,,
+country,MDG,Madagascar,0.1,118,121,,45.5,28.91,25.59,,,,,
+country,MOZ,Mozambique,0.08,120,121,,31.88,24.8,43.32,,,,,
+country,TZA,Tanzania,0.07,121,121,,44.55,25.26,30.18,,,,,
+province,ZA-GP,Gauteng,,1,4,52.36,44.54,30.77,24.69,48.12,,Content Creation & Copywriting,24.04,20.76
+province,ZA-WC,Western Cape,,2,4,31.45,47.23,29.24,23.52,49.97,,Content Creation & Copywriting,23.4,19.61
+province,ZA-KZN,KwaZulu-Natal,,3,4,8.91,39.61,32.64,27.75,45.89,,Content Creation & Copywriting,23.87,21.92
+province,ZA-EC,Eastern Cape,,4,4,2.02,27.15,26.37,46.48,57.26,,Education & Learning,38.44,38.44

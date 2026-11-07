@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this dataset as below. Source of the basic data: Statistics South Africa, Mid-year population estimates 2026 (P0302). Tables are MzansiData's own processing of the data."
+type: dataset
+title: "South Africa's mid-year population by province, 2002 to 2026 (Stats SA, 2026 series)"
+version: "2026.11.0"
+date-released: "2026-11-07"
+authors:
+  - name: MzansiData
+url: "https://mzansidata.co.za/data/downloads#south-africa-population-2002-2026"
+license-url: "https://www.statssa.gov.za/?page_id=425"
+references:
+  - type: data
+    title: "Stats SA, Mid-year population estimates 2026, P0302 (released 30 July 2026), supplementary workbook \"District Council projection by sex and age (2002-2026)\""
+    authors:
+      - name: "Statistics South Africa (Stats SA)"
+    url: "https://www.statssa.gov.za/publications/P0302/District%20Council%20projection%20by%20sex%20and%20age%20(2002-2026)_web.xlsx"

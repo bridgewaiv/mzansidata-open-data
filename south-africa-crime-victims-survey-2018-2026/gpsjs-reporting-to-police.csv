@@ -1,0 +1,104 @@
+survey_year,crime_type,unit,pct_reported
+2018/19,Assault (household),households,69
+2018/19,Deliberate damaging of dwellings,households,49.9
+2018/19,Home robbery,households,59.9
+2018/19,Housebreaking/burglary,households,48.2
+2018/19,Murder (household),households,100
+2018/19,Sexual offences (household),households,69
+2018/19,Theft of motor vehicle,households,86.3
+2018/19,Assault (individual),individuals,50
+2018/19,Consumer fraud,individuals,47
+2018/19,Hijacking of motor vehicle,individuals,85
+2018/19,Sexual offences (individual),individuals,88
+2018/19,Street robbery,individuals,34.8
+2018/19,Theft of personal property,individuals,32
+2019/20,Assault (household),households,60
+2019/20,Deliberate damaging of dwellings,households,55.4
+2019/20,Home robbery,households,54.5
+2019/20,Housebreaking/burglary,households,51.7
+2019/20,Murder (household),households,100
+2019/20,Sexual offences (household),households,59.9
+2019/20,Theft of motor vehicle,households,78.7
+2019/20,Assault (individual),individuals,41.4
+2019/20,Consumer fraud,individuals,26
+2019/20,Hijacking of motor vehicle,individuals,78
+2019/20,Sexual offences (individual),individuals,60
+2019/20,Street robbery,individuals,42
+2019/20,Theft of personal property,individuals,38.2
+2020/21,Assault (household),households,50.6
+2020/21,Home robbery,households,55.9
+2020/21,Housebreaking/burglary,households,56.1
+2020/21,Murder (household),households,100
+2020/21,Sexual offences (household),households,88.7
+2020/21,Theft of motor vehicle,households,91
+2020/21,Consumer fraud,individuals,41.3
+2020/21,Hijacking of motor vehicle,individuals,62.7
+2020/21,Street robbery,individuals,54.9
+2020/21,Theft of personal property,individuals,30.5
+2021/22,Assault (household),households,73.7
+2021/22,Home robbery,households,66.4
+2021/22,Housebreaking/burglary,households,59.2
+2021/22,Murder (household),households,95.0
+2021/22,Sexual offences (household),households,90.0
+2021/22,Theft of motor vehicle,households,57.2
+2021/22,Consumer fraud,individuals,44.2
+2021/22,Hijacking of motor vehicle,individuals,62.9
+2021/22,Street robbery,individuals,33.7
+2021/22,Theft of personal property,individuals,30.8
+2022/23,Assault (household),households,53.7
+2022/23,Deliberate damaging of dwellings,households,56.3
+2022/23,Home robbery,households,56.8
+2022/23,Housebreaking/burglary,households,51.4
+2022/23,Murder (household),households,93.8
+2022/23,Sexual offences (household),households,92.3
+2022/23,Theft of motor vehicle,households,76.4
+2022/23,Assault (individual),individuals,61.4
+2022/23,Consumer fraud,individuals,38.1
+2022/23,Hijacking of motor vehicle,individuals,89.6
+2022/23,Psychological violence,individuals,31.1
+2022/23,Sexual offences (individual),individuals,56.0
+2022/23,Theft of personal property,individuals,41.4
+2023/24,Assault (household),households,67.5
+2023/24,Deliberate damaging of dwellings,households,53.8
+2023/24,Home robbery,households,57.6
+2023/24,Housebreaking/burglary,households,44.1
+2023/24,Murder (household),households,100.0
+2023/24,Sexual offences (household),households,78.4
+2023/24,Theft of motor vehicle,households,85.8
+2023/24,Assault (individual),individuals,53.9
+2023/24,Consumer fraud,individuals,30.7
+2023/24,Hijacking of motor vehicle,individuals,65.4
+2023/24,Psychological violence,individuals,39.0
+2023/24,Sexual offences (individual),individuals,67.5
+2023/24,Street robbery,individuals,44.2
+2023/24,Theft of personal property,individuals,28.5
+2024/25,Assault (household),households,67.0
+2024/25,Deliberate damaging of dwellings,households,53.3
+2024/25,Home robbery,households,51.3
+2024/25,Housebreaking/burglary,households,43.4
+2024/25,Murder (household),households,100.0
+2024/25,Sexual offences (household),households,47.6
+2024/25,Theft of livestock/poultry and other animals,households,41.1
+2024/25,Theft of motor vehicle,households,82.5
+2024/25,Assault (individual),individuals,54.4
+2024/25,Consumer fraud,individuals,34.9
+2024/25,Hijacking of motor vehicle,individuals,76.8
+2024/25,Psychological violence,individuals,26.6
+2024/25,Sexual offences (individual),individuals,56.3
+2024/25,Street robbery,individuals,36.4
+2024/25,Theft of personal property,individuals,31.0
+2025/26,Assault (household),households,56.8
+2025/26,Deliberate damaging of dwellings,households,40.9
+2025/26,Home robbery,households,51.6
+2025/26,Housebreaking/burglary,households,48.2
+2025/26,Murder (household),households,94.0
+2025/26,Sexual offences (household),households,78.1
+2025/26,Theft of livestock/poultry and other animals,households,48.6
+2025/26,Theft of motor vehicle,households,69.4
+2025/26,Assault (individual),individuals,54.7
+2025/26,Consumer fraud,individuals,38.8
+2025/26,Hijacking of motor vehicle,individuals,77.3
+2025/26,Psychological violence,individuals,30.7
+2025/26,Sexual offences (individual),individuals,67.0
+2025/26,Street robbery,individuals,41.7
+2025/26,Theft of personal property,individuals,37.3

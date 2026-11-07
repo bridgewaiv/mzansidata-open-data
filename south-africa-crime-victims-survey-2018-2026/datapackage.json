@@ -1,0 +1,151 @@
+{
+ "name": "south-africa-crime-victims-survey-2018-2026",
+ "title": "Crime victims in South Africa: Stats SA's Governance, Public Safety and Justice Survey, 2018/19 to 2025/26",
+ "description": "From Stats SA's Governance, Public Safety and Justice Survey (GPSJS, P0341): the share of victims who reported each crime to the police, the share of households hit by housebreaking, and the share of people who feel safe walking alone in their area by day and after dark, 2018/19 to 2025/26.",
+ "version": "2026.11.0",
+ "created": "2026-11-07",
+ "homepage": "https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026",
+ "keywords": [
+  "Victims of crime South Africa",
+  "GPSJS",
+  "Stats SA P0341",
+  "crime reporting rate",
+  "feeling safe South Africa",
+  "CSV"
+ ],
+ "licenses": [
+  {
+   "name": "Stats-SA-copyright-notice",
+   "path": "https://www.statssa.gov.za/?page_id=425",
+   "title": "Stats SA copyright notice: use with acknowledgement of Stats SA as the source"
+  }
+ ],
+ "usageInfo": "Stats SA's copyright notice (https://www.statssa.gov.za/?page_id=425, read 7 November 2026) says: \"Users may apply the information as they wish, provided that they acknowledge Stats SA as the source of the basic data wherever they process, apply, utilise, publish or distribute the data, and also that they specify that the relevant application and analysis (where applicable) result from their own processing of the data.\" These tables are MzansiData's processing of Stats SA's data. If you use them, name Stats SA as the source of the basic data and say that any analysis is your own.",
+ "contributors": [
+  {
+   "title": "MzansiData",
+   "path": "https://mzansidata.co.za",
+   "role": "publisher"
+  },
+  {
+   "title": "Statistics South Africa (Stats SA)",
+   "path": "https://www.statssa.gov.za",
+   "role": "author"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Stats SA, Victims of Crime: Governance, Public Safety and Justice Survey 2025/26, P0341 (released 1 September 2026)",
+   "path": "https://www.statssa.gov.za/publications/P0341/P03412026.pdf",
+   "retrieved": "2026-11-01",
+   "bytes": 1712794,
+   "sha256": "414b1f3931af38ef4bf166cc8cbd4651264004bd632fe2626d12766bc65ee6ee",
+   "note": "Release tables and figures used for 2021/22 onward."
+  },
+  {
+   "title": "Stats SA, GPSJS 2025/26 P0341 Trends of Key Indicators (workbook)",
+   "path": "https://www.statssa.gov.za/publications/P0341/GPSJS%202025_26%20P0341%20Trends%20of%20Key%20Indicators%2031082026.xlsx",
+   "retrieved": "2026-11-01",
+   "bytes": 76240,
+   "sha256": "d0218beeaf8b70ded0a9402be91bd44559370a8c9f9005359dc35645e8c0f77b",
+   "note": "Sheets \"Reporting of crime\", \"Table 5 household crime 12mths\" and \"Feeling of safety\", used for 2018/19 to 2020/21."
+  }
+ ],
+ "resources": [
+  {
+   "name": "gpsjs-reporting-to-police",
+   "title": "Share of victims who reported the crime to the police, by crime",
+   "path": "gpsjs-reporting-to-police.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "bytes": 4878,
+   "hash": "sha256:39506bc2bd377f337ab53d4a3517ddc806498341cba308fab02d02b48ebdbe5b",
+   "rows": 103,
+   "schema": {
+    "fields": [
+     {
+      "name": "survey_year",
+      "type": "string",
+      "description": "GPSJS survey year, for example 2025/26"
+     },
+     {
+      "name": "crime_type",
+      "type": "string",
+      "description": "Crime, as Stats SA names it"
+     },
+     {
+      "name": "unit",
+      "type": "string",
+      "description": "households (household crimes) or individuals (individual crimes)"
+     },
+     {
+      "name": "pct_reported",
+      "type": "number",
+      "description": "Share of victims who reported at least one incident to the police, %"
+     }
+    ]
+   }
+  },
+  {
+   "name": "gpsjs-housebreaking",
+   "title": "Share of households that experienced housebreaking in the previous 12 months",
+   "path": "gpsjs-housebreaking.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "bytes": 329,
+   "hash": "sha256:fd5cb0ab700e9fccc8a6dd9788452db9cd80b7415677300772f66dd532192931",
+   "rows": 8,
+   "schema": {
+    "fields": [
+     {
+      "name": "survey_year",
+      "type": "string",
+      "description": "GPSJS survey year"
+     },
+     {
+      "name": "crime_type",
+      "type": "string",
+      "description": "Housebreaking/burglary"
+     },
+     {
+      "name": "pct_households_12_months",
+      "type": "number",
+      "description": "Share of households that experienced it in the previous 12 months, %"
+     }
+    ]
+   }
+  },
+  {
+   "name": "gpsjs-feeling-safe",
+   "title": "Share of people aged 16 and older who feel safe walking alone in their area",
+   "path": "gpsjs-feeling-safe.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "bytes": 448,
+   "hash": "sha256:f686a5927f096e1af3c0f6855f02592f6685cd32bdc2a793ae60baa9ace99432",
+   "rows": 16,
+   "schema": {
+    "fields": [
+     {
+      "name": "survey_year",
+      "type": "string",
+      "description": "GPSJS survey year"
+     },
+     {
+      "name": "walking_alone",
+      "type": "string",
+      "description": "during the day or after dark"
+     },
+     {
+      "name": "pct_feel_safe",
+      "type": "number",
+      "description": "Share who feel very or fairly safe, %"
+     }
+    ]
+   }
+  }
+ ]
+}

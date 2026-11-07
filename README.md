@@ -1,22 +1,28 @@
 # MzansiData open data
 
-Cleaned, documented South African public datasets from [MzansiData](https://mzansidata.co.za), a non-commercial public-data project.
+Clean, documented CSV files of South African public data from MzansiData (https://mzansidata.co.za), a non-commercial site that turns South Africa's public data into charts and explainers. Every figure comes from the publishing body itself, and each package names the publisher's file it comes from, with the address, retrieval date and, where we downloaded a file, its SHA-256.
 
-Every dataset here comes from an official primary source (for example Stats SA, SAPS, the Department of Water and Sanitation or the Electoral Commission). Each one ships with:
+We publish a dataset here only when its publisher's own terms allow it, and each package carries those terms. The same files are on https://mzansidata.co.za/data/downloads.
 
-- a data dictionary (README) and a Frictionless `datapackage.json`;
-- the source URL, retrieval date and SHA-256 of every source file used;
-- `CITATION.cff` so you can cite it;
-- a version number and a changelog. Corrections get a new version and a public note.
+## Packages
 
-## Licences
+| Package | Publisher | Terms | Files |
+|---|---|---|---|
+| [`south-africa-claude-usage/`](south-africa-claude-usage/) | Anthropic (Anthropic Economic Index) | CC BY 4.0 | Usage by geography (world, 26 African countries, 4 provinces); South Africa's top request topics, job categories and tasks |
+| [`south-africa-population-2002-2026/`](south-africa-population-2002-2026/) | Statistics South Africa (P0302) | Stats SA copyright notice: name Stats SA as the source, say the analysis is your own processing | Mid-year population, South Africa and the provinces, 2002 to 2026 |
+| [`south-africa-crime-victims-survey-2018-2026/`](south-africa-crime-victims-survey-2018-2026/) | Statistics South Africa (P0341, GPSJS) | As above | Reporting to the police, housebreaking, feeling safe, 2018/19 to 2025/26 |
 
-Each dataset keeps its source's terms. Read the `LICENSE` or `README` in its folder before you reuse it. Our own documentation is CC BY 4.0. Where a source does not allow redistribution, we publish only a catalogue of its files and links to the source, never the files themselves.
+Each data package has a `README.md` (data dictionary, source, terms, citation), a [Frictionless](https://frictionlessdata.io/) `datapackage.json` (schema, row counts, SHA-256) and a `CITATION.cff`.
 
-## Status
+## Election results
 
-The first datasets are being prepared. Watch or star this repository to hear when they land, or sign up at [mzansidata.co.za](https://mzansidata.co.za).
+
+## Versions
+
+Versions are named `year.month.n`; `2026.11.0` is the first. Files never change within a version.
 
 ## Corrections
 
-Found a problem? Open an issue with the dataset, row and source you checked against.
+Found a figure that differs from the publisher's file? Write to hello@mzansidata.co.za or use https://mzansidata.co.za/contact, naming the file, the row and the publisher's file you compared it with.
+
+MzansiData's own documentation here is CC BY 4.0. The data in each package is under the terms that package gives.
