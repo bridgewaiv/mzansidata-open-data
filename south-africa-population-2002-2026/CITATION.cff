@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Please cite this dataset as below. Source of the basic data: Statistics South Africa, Mid-year population estimates 2026 (P0302). Tables are MzansiData's own processing of the data."
 type: dataset
 title: "South Africa's mid-year population by province, 2002 to 2026 (Stats SA, 2026 series)"
-version: "2026.11.0"
-date-released: "2026-11-07"
+version: "2026.11.1"
+date-released: "2026-11-08"
 authors:
   - name: MzansiData
 url: "https://mzansidata.co.za/data/downloads#south-africa-population-2002-2026"

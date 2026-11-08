@@ -2,7 +2,7 @@
 
 From Stats SA's Governance, Public Safety and Justice Survey (GPSJS, P0341): the share of victims who reported each crime to the police, the share of households hit by housebreaking, and the share of people who feel safe walking alone in their area by day and after dark, 2018/19 to 2025/26.
 
-Version 2026.11.0, released 2026-11-07. Published by MzansiData (https://mzansidata.co.za), a non-commercial South African public-data site. Download page: https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026
+Version 2026.11.1, released 2026-11-08. Published by MzansiData (https://mzansidata.co.za), a non-commercial South African public-data site. Download page: https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026
 
 ## Terms of use
 
@@ -12,7 +12,7 @@ Licence of the data: Stats SA copyright notice: use with acknowledgement of Stat
 
 ## How to cite
 
-MzansiData (2026). Crime victims in South Africa: Stats SA's Governance, Public Safety and Justice Survey, 2018/19 to 2025/26, version 2026.11.0. Source of the basic data: Statistics South Africa, Governance, Public Safety and Justice Survey (P0341). Tables are MzansiData's own processing of the data. https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026
+MzansiData (2026). Crime victims in South Africa: Stats SA's Governance, Public Safety and Justice Survey, 2018/19 to 2025/26, version 2026.11.1. Source of the basic data: Statistics South Africa, Governance, Public Safety and Justice Survey (P0341). Tables are MzansiData's own processing of the data. https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026
 
 ## Files
 

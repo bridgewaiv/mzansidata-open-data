@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Please cite this dataset as below. Anthropic Economic Index, Anthropic, CC BY 4.0. Tables by MzansiData."
 type: dataset
 title: "How South Africans use Claude: Anthropic Economic Index, May 2026"
-version: "2026.11.0"
-date-released: "2026-11-07"
+version: "2026.11.1"
+date-released: "2026-11-08"
 authors:
   - name: MzansiData
 url: "https://mzansidata.co.za/data/downloads#south-africa-claude-usage"

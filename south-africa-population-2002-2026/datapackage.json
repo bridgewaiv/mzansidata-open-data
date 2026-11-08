@@ -2,8 +2,8 @@
  "name": "south-africa-population-2002-2026",
  "title": "South Africa's mid-year population by province, 2002 to 2026 (Stats SA, 2026 series)",
  "description": "Mid-year population of South Africa and its nine provinces for every year from 2002 to 2026, all from Stats SA's 2026 mid-year population estimates (P0302), summed from Stats SA's district council projection by sex and age.",
- "version": "2026.11.0",
- "created": "2026-11-07",
+ "version": "2026.11.1",
+ "created": "2026-11-08",
  "homepage": "https://mzansidata.co.za/data/downloads#south-africa-population-2002-2026",
  "keywords": [
   "South Africa population",

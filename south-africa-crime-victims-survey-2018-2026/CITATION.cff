@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Please cite this dataset as below. Source of the basic data: Statistics South Africa, Governance, Public Safety and Justice Survey (P0341). Tables are MzansiData's own processing of the data."
 type: dataset
 title: "Crime victims in South Africa: Stats SA's Governance, Public Safety and Justice Survey, 2018/19 to 2025/26"
-version: "2026.11.0"
-date-released: "2026-11-07"
+version: "2026.11.1"
+date-released: "2026-11-08"
 authors:
   - name: MzansiData
 url: "https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026"

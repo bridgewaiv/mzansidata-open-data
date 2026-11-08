@@ -2,8 +2,8 @@
  "name": "south-africa-claude-usage",
  "title": "How South Africans use Claude: Anthropic Economic Index, May 2026",
  "description": "Claude usage in South Africa, its four provinces with published figures and 26 African countries, from the Anthropic Economic Index (period 1 May 2026): the Anthropic Usage Index and rank, work, personal and coursework shares, augmentation and automation, and South Africa's top request topics, job categories and tasks against the world.",
- "version": "2026.11.0",
- "created": "2026-11-07",
+ "version": "2026.11.1",
+ "created": "2026-11-08",
  "homepage": "https://mzansidata.co.za/data/downloads#south-africa-claude-usage",
  "keywords": [
   "Anthropic Economic Index",

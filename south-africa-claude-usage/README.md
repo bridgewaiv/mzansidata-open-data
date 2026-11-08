@@ -2,7 +2,7 @@
 
 Claude usage in South Africa, its four provinces with published figures and 26 African countries, from the Anthropic Economic Index (period 1 May 2026): the Anthropic Usage Index and rank, work, personal and coursework shares, augmentation and automation, and South Africa's top request topics, job categories and tasks against the world.
 
-Version 2026.11.0, released 2026-11-07. Published by MzansiData (https://mzansidata.co.za), a non-commercial South African public-data site. Download page: https://mzansidata.co.za/data/downloads#south-africa-claude-usage
+Version 2026.11.1, released 2026-11-08. Published by MzansiData (https://mzansidata.co.za), a non-commercial South African public-data site. Download page: https://mzansidata.co.za/data/downloads#south-africa-claude-usage
 
 ## Terms of use
 
@@ -12,7 +12,7 @@ Licence of the data: Creative Commons Attribution 4.0 International (https://cre
 
 ## How to cite
 
-MzansiData (2026). How South Africans use Claude: Anthropic Economic Index, May 2026, version 2026.11.0. Anthropic Economic Index, Anthropic, CC BY 4.0. Tables by MzansiData. https://mzansidata.co.za/data/downloads#south-africa-claude-usage
+MzansiData (2026). How South Africans use Claude: Anthropic Economic Index, May 2026, version 2026.11.1. Anthropic Economic Index, Anthropic, CC BY 4.0. Tables by MzansiData. https://mzansidata.co.za/data/downloads#south-africa-claude-usage
 
 ## Files
 

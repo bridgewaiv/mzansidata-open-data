@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this dataset as below. Source of the basic data: Statistics South Africa, Consumer Price Index (P0141), September 2026 release, its time series and the CPI History. Tables are MzansiData's own processing of the data."
+type: dataset
+title: "Inflation in South Africa: Stats SA's Consumer Price Index, monthly, headline since 1922, provinces and groups since 2008"
+version: "2026.11.1"
+date-released: "2026-11-08"
+authors:
+  - name: MzansiData
+url: "https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi"
+license-url: "https://www.statssa.gov.za/?page_id=425"
+references:
+  - type: data
+    title: "Stats SA, P0141 CPI (COICOP) from January 2008, release 2026 09, ASCII time series"
+    authors:
+      - name: "Statistics South Africa (Stats SA)"
+    url: "https://www.statssa.gov.za/timeseriesdata/Ascii/P0141%20-%20CPI(COICOP)%20from%20Jan%202008%20(202609).zip"

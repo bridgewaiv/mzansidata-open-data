@@ -1,0 +1,138 @@
+{
+ "name": "south-africa-unemployment-qlfs",
+ "title": "Unemployment in South Africa: Stats SA's Quarterly Labour Force Survey, Q1 2008 to Q2 2026, national, provinces and metros",
+ "description": "Stats SA's Quarterly Labour Force Survey (QLFS, P0211) as one tidy table: the official unemployment rate and the broader rates LU2, LU3 (the expanded rate) and LU4, employed, unemployed, labour force, people outside the labour force, labour force participation and absorption, for South Africa and the nine provinces every quarter from Q1 2008 and the eight metros from Q1 2015, with 95% intervals for the latest two quarters.",
+ "version": "2026.11.1",
+ "created": "2026-11-08",
+ "homepage": "https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs",
+ "keywords": [
+  "South Africa unemployment rate",
+  "QLFS",
+  "Quarterly Labour Force Survey",
+  "Stats SA P0211",
+  "expanded unemployment rate",
+  "unemployment by province",
+  "unemployment by metro",
+  "CSV"
+ ],
+ "licenses": [
+  {
+   "name": "Stats-SA-copyright-notice",
+   "path": "https://www.statssa.gov.za/?page_id=425",
+   "title": "Stats SA copyright notice: use with acknowledgement of Stats SA as the source"
+  }
+ ],
+ "usageInfo": "Stats SA's copyright notice (https://www.statssa.gov.za/?page_id=425, read 7 November 2026) says: \"Users may apply the information as they wish, provided that they acknowledge Stats SA as the source of the basic data wherever they process, apply, utilise, publish or distribute the data, and also that they specify that the relevant application and analysis (where applicable) result from their own processing of the data.\" These tables are MzansiData's processing of Stats SA's data. If you use them, name Stats SA as the source of the basic data and say that any analysis is your own.",
+ "contributors": [
+  {
+   "title": "MzansiData",
+   "path": "https://mzansidata.co.za",
+   "role": "publisher"
+  },
+  {
+   "title": "Statistics South Africa (Stats SA)",
+   "path": "https://www.statssa.gov.za",
+   "role": "author"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Stats SA, Quarterly Labour Force Survey (QLFS) trends workbook, Q1 2008 to Q2 2026 (published with P0211 Q2 2026)",
+   "path": "https://www.statssa.gov.za/publications/P0211/QLFS%20Trends%202008-2026Q2.xlsx",
+   "retrieved": "2026-11-01",
+   "bytes": 1724015,
+   "sha256": "9a3d4d3becff0efaf3319613dcf34845306135c108b5d3b37c579a9029bebf22",
+   "note": "Used: Table 2.3, Labour force characteristics by province and metro. Downloaded in a browser from Stats SA's site (its files sit behind a bot check)."
+  },
+  {
+   "title": "Stats SA, Quarterly Labour Force Survey, Quarter 2: 2026, statistical release P0211 (embargoed until 11 August 2026, 11:00)",
+   "path": "https://www.statssa.gov.za/publications/P0211/P02112ndQuarter2026.pdf",
+   "retrieved": "2026-11-01",
+   "bytes": 4987275,
+   "sha256": "ccfdb081197bb22857bc0ed976ad560e181fe0266b32cdd4f65f2e7af65ba59c",
+   "note": "Used: Table A (key labour market indicators), Table E (unemployment rate by province), Table 2.3A (sampling variability by province and metro), section 1 (the Q3 2025 questionnaire change). Downloaded in a browser from Stats SA's site (its files sit behind a bot check)."
+  }
+ ],
+ "resources": [
+  {
+   "name": "qlfs-tidy",
+   "title": "QLFS by quarter: South Africa, nine provinces and eight metros, long format",
+   "path": "qlfs-tidy.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "bytes": 1792919,
+   "hash": "sha256:0b1dcaba4c8c8df629c3d3f6c8fbbc959a5723a29500ad13caf7f42c83f37d9b",
+   "rows": 12100,
+   "schema": {
+    "fields": [
+     {
+      "name": "date",
+      "type": "date",
+      "description": "End of the period: the last day of the quarter (QLFS) or month (CPI)"
+     },
+     {
+      "name": "geo_code",
+      "type": "string",
+      "description": "ZA = South Africa (CPI: total country); ZA-URB = all urban areas (the CPI headline); ZA-RUR = rural areas; ZA-WC, ZA-EC, ... = provinces (ISO 3166-2); CPT, BUF, NMA, MAN, ETH, EKU, JHB, TSH = the eight metros"
+     },
+     {
+      "name": "geo_name",
+      "type": "string",
+      "description": "Name of the geography"
+     },
+     {
+      "name": "indicator",
+      "type": "string",
+      "description": "unemployment_rate, employed, unemployed, labour_force, outside_labour_force, working_age_population, labour_force_participation_rate or absorption_rate"
+     },
+     {
+      "name": "definition",
+      "type": "string",
+      "description": "For unemployment_rate: official (LU1), lu2, expanded_lu3 (LU3) or lu4; otherwise official, or 'aged 15 to 64' for the working-age population"
+     },
+     {
+      "name": "value",
+      "type": "number",
+      "description": "The estimate"
+     },
+     {
+      "name": "unit",
+      "type": "string",
+      "description": "percent or thousand persons"
+     },
+     {
+      "name": "ci_low",
+      "type": "number",
+      "description": "Lower end of an approximate 95% interval (MzansiData's calculation from Stats SA's coefficient of variation); latest two quarters only"
+     },
+     {
+      "name": "ci_high",
+      "type": "number",
+      "description": "Upper end of that interval"
+     },
+     {
+      "name": "seasonally_adjusted",
+      "type": "boolean",
+      "description": "false for every row: Stats SA's QLFS tables and CPI indices used here are not seasonally adjusted"
+     },
+     {
+      "name": "vintage",
+      "type": "string",
+      "description": "The Stats SA release this row was read from (QLFS quarter or CPI month). Later versions add older and newer vintages as more rows"
+     },
+     {
+      "name": "break",
+      "type": "string",
+      "description": "Blank, or a short note that this row is not directly comparable with earlier rows; the README explains each note"
+     },
+     {
+      "name": "source_release",
+      "type": "string",
+      "description": "Which Stats SA publication and table the value comes from, or that it is MzansiData's calculation"
+     }
+    ]
+   }
+  }
+ ]
+}
