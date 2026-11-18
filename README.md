@@ -16,6 +16,20 @@ We publish a dataset here only when its publisher's own terms allow it, and each
 
 Each data package has a `README.md` (data dictionary, source, terms, citation), a [Frictionless](https://frictionlessdata.io/) `datapackage.json` (schema, row counts, SHA-256) and a `CITATION.cff`.
 
+## Where else to get them
+
+The same files, version by version:
+
+| Package | On mzansidata.co.za | Internet Archive (version 2026.11.4) |
+|---|---|---|
+| `south-africa-claude-usage` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-claude-usage) · [the story](https://mzansidata.co.za/posts/how-south-africans-use-claude) | [mzansidata-south-africa-claude-usage-2026.11.4](https://archive.org/details/mzansidata-south-africa-claude-usage-2026.11.4) |
+| `south-africa-population-2002-2026` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-population-2002-2026) | [mzansidata-south-africa-population-2002-2026-2026.11.4](https://archive.org/details/mzansidata-south-africa-population-2002-2026-2026.11.4) |
+| `south-africa-crime-victims-survey-2018-2026` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026) · [the story](https://mzansidata.co.za/posts/crime-long-term) | [mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.4](https://archive.org/details/mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.4) |
+| `south-africa-unemployment-qlfs` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs) · [latest figures](https://mzansidata.co.za/topics/economy#unemployment) | [mzansidata-south-africa-unemployment-qlfs-2026.11.4](https://archive.org/details/mzansidata-south-africa-unemployment-qlfs-2026.11.4) |
+| `south-africa-inflation-cpi` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi) · [latest figures](https://mzansidata.co.za/topics/economy#inflation) · [inflation since 1922](https://mzansidata.co.za/posts/inflation-since-1922) | [mzansidata-south-africa-inflation-cpi-2026.11.4](https://archive.org/details/mzansidata-south-africa-inflation-cpi-2026.11.4) |
+
+Charts and explainers built on these tables: https://mzansidata.co.za.
+
 ## Election results
 
 Not here. The Electoral Commission's copyright notice allows its material to be reproduced "in unaltered form only for personal, non-commercial use", so we do not republish its files or tables made from them.

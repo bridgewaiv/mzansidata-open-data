@@ -1,0 +1,45 @@
+{
+  "title": "MzansiData open data: South African public statistics as documented CSV packages",
+  "upload_type": "dataset",
+  "description": "<p>Clean, documented CSV files of South African public data from MzansiData (<a href=\"https://mzansidata.co.za\">mzansidata.co.za</a>), a non-commercial site that turns South Africa's public data into charts and explainers. Each package has a data dictionary (README.md), a Frictionless datapackage.json with the schema, row counts and SHA-256 checksums, and a CITATION.cff, and names the publisher's file it comes from.</p><ul><li>Unemployment: Statistics South Africa, Quarterly Labour Force Survey (P0211), South Africa, the nine provinces and the eight metros, every quarter since 2008.</li><li>Inflation: Statistics South Africa, Consumer Price Index (P0141), headline inflation every month since 1922, provinces and spending groups since 2008, core inflation.</li><li>Population: Statistics South Africa, Mid-year population estimates (P0302), South Africa and the provinces, 2002 to 2026.</li><li>Crime victims: Statistics South Africa, Governance, Public Safety and Justice Survey (P0341), 2018/19 to 2025/26.</li><li>Claude usage in South Africa and Africa: Anthropic Economic Index (CC BY 4.0).</li></ul><p><b>Terms.</b> Each package carries its publisher's terms. Statistics South Africa's tables are reused under its copyright notice (https://www.statssa.gov.za/?page_id=425): acknowledge Stats SA as the source of the basic data and say that any analysis is your own processing. The Anthropic Economic Index tables are CC BY 4.0. MzansiData's own documentation is CC BY 4.0. No election results are included.</p><p>Latest version and downloads: <a href=\"https://mzansidata.co.za/data/downloads\">https://mzansidata.co.za/data/downloads</a>.</p>",
+  "creators": [
+    {"name": "MzansiData"}
+  ],
+  "contributors": [
+    {"name": "Statistics South Africa", "type": "DataCollector"},
+    {"name": "Anthropic", "type": "DataCollector"}
+  ],
+  "access_right": "open",
+  "license": "other-at",
+  "language": "eng",
+  "keywords": [
+    "South Africa",
+    "open data",
+    "statistics",
+    "Stats SA",
+    "unemployment",
+    "Quarterly Labour Force Survey",
+    "inflation",
+    "Consumer Price Index",
+    "population",
+    "crime victims survey",
+    "Anthropic Economic Index",
+    "CSV",
+    "Frictionless Data"
+  ],
+  "related_identifiers": [
+    {"identifier": "https://mzansidata.co.za/data/downloads", "relation": "isIdenticalTo", "resource_type": "dataset"},
+    {"identifier": "https://github.com/bridgewaiv/mzansidata-open-data", "relation": "isSupplementTo", "resource_type": "dataset"},
+    {"identifier": "https://www.statssa.gov.za/?page_id=1854&PPN=P0211", "relation": "isDerivedFrom", "resource_type": "dataset"},
+    {"identifier": "https://www.statssa.gov.za/?page_id=1854&PPN=P0141", "relation": "isDerivedFrom", "resource_type": "dataset"},
+    {"identifier": "https://www.statssa.gov.za/?page_id=1854&PPN=P0302", "relation": "isDerivedFrom", "resource_type": "dataset"},
+    {"identifier": "https://www.statssa.gov.za/?page_id=1854&PPN=P0341", "relation": "isDerivedFrom", "resource_type": "dataset"},
+    {"identifier": "https://huggingface.co/datasets/Anthropic/EconomicIndex", "relation": "isDerivedFrom", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-unemployment-qlfs-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-inflation-cpi-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-population-2002-2026-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-claude-usage-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"}
+  ],
+  "notes": "Versions are named year.month.n and match the GitHub release tags (for example v2026.11.4). Corrections: hello@mzansidata.co.za or https://mzansidata.co.za/contact."
+}

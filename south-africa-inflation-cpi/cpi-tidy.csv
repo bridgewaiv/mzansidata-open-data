@@ -11292,7 +11292,6 @@ date,geo_code,geo_name,indicator,definition,value,unit,ci_low,ci_high,seasonally
 2025-09-30,ZA-URB,South Africa: all urban areas,cpi_index,coicop_11_restaurants_and_accommodation_services,102,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2025-09-30,ZA-URB,South Africa: all urban areas,cpi_index,coicop_12_insurance_and_financial_services,107.1,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2025-09-30,ZA-URB,South Africa: all urban areas,cpi_index,coicop_13_personal_care_and_miscellaneous_services,102.8,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
-2025-09-30,ZA-URB,South Africa: all urban areas,cpi_index,core,103.0,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, Table A"
 2025-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,headline,3.4,percent,,,false,2026-09,,"P0141 CPI History, Table B2"
 2025-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_01_food_and_non_alcoholic_beverages,4.5,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
 2025-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_02_alcoholic_beverages_and_tobacco,4.2,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
@@ -11342,6 +11341,7 @@ date,geo_code,geo_name,indicator,definition,value,unit,ci_low,ci_high,seasonally
 2025-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_11_restaurants_and_accommodation_services,102.8,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2025-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_12_insurance_and_financial_services,107.1,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2025-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_13_personal_care_and_miscellaneous_services,102.9,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
+2025-10-31,ZA-URB,South Africa: all urban areas,cpi_index,core,103.1,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
 2025-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,headline,3.6,percent,,,false,2026-09,,"P0141 CPI History, Table B2"
 2025-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_01_food_and_non_alcoholic_beverages,3.9,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
 2025-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_02_alcoholic_beverages_and_tobacco,4.5,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
@@ -11840,7 +11840,6 @@ date,geo_code,geo_name,indicator,definition,value,unit,ci_low,ci_high,seasonally
 2026-08-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_11_restaurants_and_accommodation_services,106.9,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2026-08-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_12_insurance_and_financial_services,113.2,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2026-08-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_13_personal_care_and_miscellaneous_services,105.4,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
-2026-08-31,ZA-URB,South Africa: all urban areas,cpi_index,core,106.9,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, Table A"
 2026-08-31,ZA-URB,South Africa: all urban areas,inflation_annual,headline,4.4,percent,,,false,2026-09,,"P0141 CPI History, Table B2"
 2026-08-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_01_food_and_non_alcoholic_beverages,1.1,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
 2026-08-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_02_alcoholic_beverages_and_tobacco,3.6,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
@@ -11891,7 +11890,7 @@ date,geo_code,geo_name,indicator,definition,value,unit,ci_low,ci_high,seasonally
 2026-09-30,ZA-URB,South Africa: all urban areas,cpi_index,coicop_11_restaurants_and_accommodation_services,106.5,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2026-09-30,ZA-URB,South Africa: all urban areas,cpi_index,coicop_12_insurance_and_financial_services,112.9,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2026-09-30,ZA-URB,South Africa: all urban areas,cpi_index,coicop_13_personal_care_and_miscellaneous_services,105.5,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
-2026-09-30,ZA-URB,South Africa: all urban areas,cpi_index,core,107.1,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, Table A"
+2026-09-30,ZA-URB,South Africa: all urban areas,cpi_index,core,107.1,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
 2026-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,headline,4.5,percent,,,false,2026-09,,"P0141 CPI History, Table B2"
 2026-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_01_food_and_non_alcoholic_beverages,1.2,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
 2026-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_02_alcoholic_beverages_and_tobacco,3.6,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
@@ -11906,7 +11905,6 @@ date,geo_code,geo_name,indicator,definition,value,unit,ci_low,ci_high,seasonally
 2026-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_11_restaurants_and_accommodation_services,4.4,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
 2026-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_12_insurance_and_financial_services,5.4,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
 2026-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_13_personal_care_and_miscellaneous_services,2.6,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
-2026-09-30,ZA-URB,South Africa: all urban areas,inflation_annual,core,4.0,percent,,,false,2026-09,,"P0141 September 2026, Table A"
 2026-09-30,ZA-RUR,South Africa: rural areas,cpi_index,all_items,106.4,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2026-09-30,ZA-RUR,South Africa: rural areas,inflation_annual,all_items,3.1,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
 2026-09-30,ZA-WC,Western Cape,cpi_index,all_items,109.2,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
@@ -11927,3 +11925,55 @@ date,geo_code,geo_name,indicator,definition,value,unit,ci_low,ci_high,seasonally
 2026-09-30,ZA-MP,Mpumalanga,inflation_annual,all_items,4.0,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
 2026-09-30,ZA-LP,Limpopo,cpi_index,all_items,106.9,"index, December 2024 = 100",,,false,2026-09,,"P0141 September 2026, time series 202609"
 2026-09-30,ZA-LP,Limpopo,inflation_annual,all_items,3.0,percent,,,false,2026-09,,MzansiData calculation from P0141 September 2026 indices
+2026-10-31,ZA,South Africa: total country,cpi_index,all_items,108.7,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA,South Africa: total country,inflation_annual,all_items,5.0,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,headline,108.9,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_01_food_and_non_alcoholic_beverages,105.6,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_02_alcoholic_beverages_and_tobacco,108.1,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_03_clothing_and_footwear,102.3,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_04_housing_and_utilities,109.7,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_05_furnishings_household_equipment_and_routine_maintenance,102.2,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_06_health,108.5,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_07_transport,116,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_08_information_and_communication,103.2,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_09_recreation_sport_and_culture,106.8,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_10_education,110.1,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_11_restaurants_and_accommodation_services,108.2,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_12_insurance_and_financial_services,112.8,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,coicop_13_personal_care_and_miscellaneous_services,105.7,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,cpi_index,core,107.4,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,headline,5.2,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_01_food_and_non_alcoholic_beverages,1.4,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_02_alcoholic_beverages_and_tobacco,3.2,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_03_clothing_and_footwear,1.2,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_04_housing_and_utilities,5.2,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_05_furnishings_household_equipment_and_routine_maintenance,1.8,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_06_health,3.3,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_07_transport,15.2,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_08_information_and_communication,2.5,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_09_recreation_sport_and_culture,3.4,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_10_education,5.4,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_11_restaurants_and_accommodation_services,5.3,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_12_insurance_and_financial_services,5.3,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,coicop_13_personal_care_and_miscellaneous_services,2.7,percent,,,false,2026-10,,"P0141 October 2026, Table E"
+2026-10-31,ZA-URB,South Africa: all urban areas,inflation_annual,core,4.2,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-RUR,South Africa: rural areas,cpi_index,all_items,106.9,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-RUR,South Africa: rural areas,inflation_annual,all_items,3.7,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-WC,Western Cape,cpi_index,all_items,110.1,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-WC,Western Cape,inflation_annual,all_items,6.2,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-EC,Eastern Cape,cpi_index,all_items,108.3,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-EC,Eastern Cape,inflation_annual,all_items,5.2,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-NC,Northern Cape,cpi_index,all_items,107.8,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-NC,Northern Cape,inflation_annual,all_items,4.5,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-FS,Free State,cpi_index,all_items,108.2,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-FS,Free State,inflation_annual,all_items,5.2,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-KZN,KwaZulu-Natal,cpi_index,all_items,108.2,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-KZN,KwaZulu-Natal,inflation_annual,all_items,4.5,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-NW,North West,cpi_index,all_items,108.6,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-NW,North West,inflation_annual,all_items,4.4,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-GP,Gauteng,cpi_index,all_items,108.7,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-GP,Gauteng,inflation_annual,all_items,5.0,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-MP,Mpumalanga,cpi_index,all_items,107.8,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-MP,Mpumalanga,inflation_annual,all_items,4.7,percent,,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-LP,Limpopo,cpi_index,all_items,107.4,"index, December 2024 = 100",,,false,2026-10,,"P0141 October 2026, Table A"
+2026-10-31,ZA-LP,Limpopo,inflation_annual,all_items,3.5,percent,,,false,2026-10,,"P0141 October 2026, Table A"

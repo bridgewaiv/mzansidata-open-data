@@ -1,9 +1,9 @@
 {
  "name": "south-africa-unemployment-qlfs",
- "title": "Unemployment in South Africa: Stats SA's Quarterly Labour Force Survey, Q1 2008 to Q2 2026, national, provinces and metros",
+ "title": "Unemployment in South Africa: Stats SA's Quarterly Labour Force Survey, Q1 2008 to Q3 2026, national, provinces and metros",
  "description": "Stats SA's Quarterly Labour Force Survey (QLFS, P0211) as one tidy table: the official unemployment rate and the broader rates LU2, LU3 (the expanded rate) and LU4, employed, unemployed, labour force, people outside the labour force, labour force participation and absorption, for South Africa and the nine provinces every quarter from Q1 2008 and the eight metros from Q1 2015, with 95% intervals for the latest two quarters.",
- "version": "2026.11.1",
- "created": "2026-11-08",
+ "version": "2026.11.4",
+ "created": "2026-11-18",
  "homepage": "https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs",
  "keywords": [
   "South Africa unemployment rate",
@@ -37,19 +37,19 @@
  ],
  "sources": [
   {
-   "title": "Stats SA, Quarterly Labour Force Survey (QLFS) trends workbook, Q1 2008 to Q2 2026 (published with P0211 Q2 2026)",
-   "path": "https://www.statssa.gov.za/publications/P0211/QLFS%20Trends%202008-2026Q2.xlsx",
-   "retrieved": "2026-11-01",
-   "bytes": 1724015,
-   "sha256": "9a3d4d3becff0efaf3319613dcf34845306135c108b5d3b37c579a9029bebf22",
+   "title": "Stats SA, Quarterly Labour Force Survey (QLFS) trends workbook, Q1 2008 to Q3 2026 (published with P0211 Q3 2026)",
+   "path": "https://www.statssa.gov.za/publications/P0211/QLFS%20Trends%202008-2026Q3.xlsx",
+   "retrieved": "2026-11-10",
+   "bytes": 1750183,
+   "sha256": "87a8088926f0051a85dff8e53950e7497b9885f712b8bd9679da884f1d8ba633",
    "note": "Used: Table 2.3, Labour force characteristics by province and metro. Downloaded in a browser from Stats SA's site (its files sit behind a bot check)."
   },
   {
-   "title": "Stats SA, Quarterly Labour Force Survey, Quarter 2: 2026, statistical release P0211 (embargoed until 11 August 2026, 11:00)",
-   "path": "https://www.statssa.gov.za/publications/P0211/P02112ndQuarter2026.pdf",
-   "retrieved": "2026-11-01",
-   "bytes": 4987275,
-   "sha256": "ccfdb081197bb22857bc0ed976ad560e181fe0266b32cdd4f65f2e7af65ba59c",
+   "title": "Stats SA, Quarterly Labour Force Survey, Quarter 3: 2026, statistical release P0211 (embargoed until 10 November 2026, 11:00)",
+   "path": "https://www.statssa.gov.za/publications/P0211/P02113rdQuarter2026.pdf",
+   "retrieved": "2026-11-10",
+   "bytes": 5044601,
+   "sha256": "5c01e0ebdecff13b363f38a4d085831a11c6f04e6cb94d1a6d47ee6fff5cd3b6",
    "note": "Used: Table A (key labour market indicators), Table E (unemployment rate by province), Table 2.3A (sampling variability by province and metro), section 1 (the Q3 2025 questionnaire change). Downloaded in a browser from Stats SA's site (its files sit behind a bot check)."
   }
  ],
@@ -61,9 +61,9 @@
    "format": "csv",
    "mediatype": "text/csv",
    "encoding": "utf-8",
-   "bytes": 1792919,
-   "hash": "sha256:0b1dcaba4c8c8df629c3d3f6c8fbbc959a5723a29500ad13caf7f42c83f37d9b",
-   "rows": 12100,
+   "bytes": 1828972,
+   "hash": "sha256:44fe667a81f724661df50083dcc7ca12ab68044966b32dc91208249691124fa4",
+   "rows": 12298,
    "schema": {
     "fields": [
      {
