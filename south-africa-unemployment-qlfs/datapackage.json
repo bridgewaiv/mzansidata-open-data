@@ -2,8 +2,8 @@
  "name": "south-africa-unemployment-qlfs",
  "title": "Unemployment in South Africa: Stats SA's Quarterly Labour Force Survey, Q1 2008 to Q3 2026, national, provinces and metros",
  "description": "Stats SA's Quarterly Labour Force Survey (QLFS, P0211) as one tidy table: the official unemployment rate and the broader rates LU2, LU3 (the expanded rate) and LU4, employed, unemployed, labour force, people outside the labour force, labour force participation and absorption, for South Africa and the nine provinces every quarter from Q1 2008 and the eight metros from Q1 2015, with 95% intervals for the latest two quarters.",
- "version": "2026.11.3",
- "created": "2026-11-10",
+ "version": "2026.11.4",
+ "created": "2026-11-18",
  "homepage": "https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs",
  "keywords": [
   "South Africa unemployment rate",

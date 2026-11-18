@@ -2,7 +2,7 @@
 
 Stats SA's Quarterly Labour Force Survey (QLFS, P0211) as one tidy table: the official unemployment rate and the broader rates LU2, LU3 (the expanded rate) and LU4, employed, unemployed, labour force, people outside the labour force, labour force participation and absorption, for South Africa and the nine provinces every quarter from Q1 2008 and the eight metros from Q1 2015, with 95% intervals for the latest two quarters.
 
-Version 2026.11.3, released 2026-11-10. Published by MzansiData (https://mzansidata.co.za), a non-commercial South African public-data site. Download page: https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs
+Version 2026.11.4, released 2026-11-18. Published by MzansiData (https://mzansidata.co.za), a non-commercial South African public-data site. Download page: https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs
 
 ## Terms of use
 
@@ -12,7 +12,7 @@ Licence of the data: Stats SA copyright notice: use with acknowledgement of Stat
 
 ## How to cite
 
-MzansiData (2026). Unemployment in South Africa: Stats SA's Quarterly Labour Force Survey, Q1 2008 to Q3 2026, national, provinces and metros, version 2026.11.3. Source of the basic data: Statistics South Africa, Quarterly Labour Force Survey (P0211), Q3 2026 release and its trends workbook. Tables are MzansiData's own processing of the data. https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs
+MzansiData (2026). Unemployment in South Africa: Stats SA's Quarterly Labour Force Survey, Q1 2008 to Q3 2026, national, provinces and metros, version 2026.11.4. Source of the basic data: Statistics South Africa, Quarterly Labour Force Survey (P0211), Q3 2026 release and its trends workbook. Tables are MzansiData's own processing of the data. https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs
 
 ## Files
 

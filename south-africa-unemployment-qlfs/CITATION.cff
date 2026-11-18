@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Please cite this dataset as below. Source of the basic data: Statistics South Africa, Quarterly Labour Force Survey (P0211), Q3 2026 release and its trends workbook. Tables are MzansiData's own processing of the data."
 type: dataset
 title: "Unemployment in South Africa: Stats SA's Quarterly Labour Force Survey, Q1 2008 to Q3 2026, national, provinces and metros"
-version: "2026.11.3"
-date-released: "2026-11-10"
+version: "2026.11.4"
+date-released: "2026-11-18"
 authors:
   - name: MzansiData
 url: "https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs"

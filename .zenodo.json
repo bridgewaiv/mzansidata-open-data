@@ -35,11 +35,11 @@
     {"identifier": "https://www.statssa.gov.za/?page_id=1854&PPN=P0302", "relation": "isDerivedFrom", "resource_type": "dataset"},
     {"identifier": "https://www.statssa.gov.za/?page_id=1854&PPN=P0341", "relation": "isDerivedFrom", "resource_type": "dataset"},
     {"identifier": "https://huggingface.co/datasets/Anthropic/EconomicIndex", "relation": "isDerivedFrom", "resource_type": "dataset"},
-    {"identifier": "https://archive.org/details/mzansidata-south-africa-unemployment-qlfs-2026.11.3", "relation": "isVariantFormOf", "resource_type": "dataset"},
-    {"identifier": "https://archive.org/details/mzansidata-south-africa-inflation-cpi-2026.11.3", "relation": "isVariantFormOf", "resource_type": "dataset"},
-    {"identifier": "https://archive.org/details/mzansidata-south-africa-population-2002-2026-2026.11.3", "relation": "isVariantFormOf", "resource_type": "dataset"},
-    {"identifier": "https://archive.org/details/mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.3", "relation": "isVariantFormOf", "resource_type": "dataset"},
-    {"identifier": "https://archive.org/details/mzansidata-south-africa-claude-usage-2026.11.3", "relation": "isVariantFormOf", "resource_type": "dataset"}
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-unemployment-qlfs-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-inflation-cpi-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-population-2002-2026-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"},
+    {"identifier": "https://archive.org/details/mzansidata-south-africa-claude-usage-2026.11.4", "relation": "isVariantFormOf", "resource_type": "dataset"}
   ],
-  "notes": "Versions are named year.month.n and match the GitHub release tags (for example v2026.11.3). Corrections: hello@mzansidata.co.za or https://mzansidata.co.za/contact."
+  "notes": "Versions are named year.month.n and match the GitHub release tags (for example v2026.11.4). Corrections: hello@mzansidata.co.za or https://mzansidata.co.za/contact."
 }
