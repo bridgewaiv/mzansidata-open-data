@@ -1,8 +1,14 @@
 # MzansiData open data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24337957.svg)](https://doi.org/10.5281/zenodo.24337957)
+
 Clean, documented CSV files of South African public data from MzansiData (https://mzansidata.co.za), a non-commercial site that turns South Africa's public data into charts and explainers. Every figure comes from the publishing body itself, and each package names the publisher's file it comes from, with the address, retrieval date and, where we downloaded a file, its SHA-256.
 
 We publish a dataset here only when its publisher's own terms allow it, and each package carries those terms. The same files are on https://mzansidata.co.za/data/downloads.
+
+## How to cite
+
+Cite the package you used with its own `CITATION.cff` (each names its publisher's source). To cite the whole collection, use its Zenodo DOI, which always points to the latest version: MzansiData, *MzansiData open data*, Zenodo, https://doi.org/10.5281/zenodo.24337957. Every release has its own version DOI on that page. GitHub's "Cite this repository" button uses `CITATION.cff` at the top of this repository.
 
 ## Packages
 
@@ -20,13 +26,13 @@ Each data package has a `README.md` (data dictionary, source, terms, citation), 
 
 The same files, version by version:
 
-| Package | On mzansidata.co.za | Internet Archive (version 2026.11.4) |
-|---|---|---|
-| `south-africa-claude-usage` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-claude-usage) · [the story](https://mzansidata.co.za/posts/how-south-africans-use-claude) | [mzansidata-south-africa-claude-usage-2026.11.4](https://archive.org/details/mzansidata-south-africa-claude-usage-2026.11.4) |
-| `south-africa-population-2002-2026` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-population-2002-2026) | [mzansidata-south-africa-population-2002-2026-2026.11.4](https://archive.org/details/mzansidata-south-africa-population-2002-2026-2026.11.4) |
-| `south-africa-crime-victims-survey-2018-2026` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026) · [the story](https://mzansidata.co.za/posts/crime-long-term) | [mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.4](https://archive.org/details/mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.4) |
-| `south-africa-unemployment-qlfs` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs) · [latest figures](https://mzansidata.co.za/topics/economy#unemployment) | [mzansidata-south-africa-unemployment-qlfs-2026.11.4](https://archive.org/details/mzansidata-south-africa-unemployment-qlfs-2026.11.4) |
-| `south-africa-inflation-cpi` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi) · [latest figures](https://mzansidata.co.za/topics/economy#inflation) · [inflation since 1922](https://mzansidata.co.za/posts/inflation-since-1922) | [mzansidata-south-africa-inflation-cpi-2026.11.4](https://archive.org/details/mzansidata-south-africa-inflation-cpi-2026.11.4) |
+| Package | On mzansidata.co.za | Internet Archive (version 2026.11.4) | Kaggle |
+|---|---|---|---|
+| `south-africa-claude-usage` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-claude-usage) · [the story](https://mzansidata.co.za/posts/how-south-africans-use-claude) | [mzansidata-south-africa-claude-usage-2026.11.4](https://archive.org/details/mzansidata-south-africa-claude-usage-2026.11.4) | [kaggle.com/datasets/elroyparkinson/south-africa-claude-usage](https://www.kaggle.com/datasets/elroyparkinson/south-africa-claude-usage) |
+| `south-africa-population-2002-2026` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-population-2002-2026) | [mzansidata-south-africa-population-2002-2026-2026.11.4](https://archive.org/details/mzansidata-south-africa-population-2002-2026-2026.11.4) | [kaggle.com/datasets/elroyparkinson/south-africa-population-2002-2026](https://www.kaggle.com/datasets/elroyparkinson/south-africa-population-2002-2026) |
+| `south-africa-crime-victims-survey-2018-2026` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-crime-victims-survey-2018-2026) · [the story](https://mzansidata.co.za/posts/crime-long-term) | [mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.4](https://archive.org/details/mzansidata-south-africa-crime-victims-survey-2018-2026-2026.11.4) | [kaggle.com/datasets/elroyparkinson/south-africa-crime-victims-survey-2018-2026](https://www.kaggle.com/datasets/elroyparkinson/south-africa-crime-victims-survey-2018-2026) |
+| `south-africa-unemployment-qlfs` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-unemployment-qlfs) · [latest figures](https://mzansidata.co.za/topics/economy#unemployment) | [mzansidata-south-africa-unemployment-qlfs-2026.11.4](https://archive.org/details/mzansidata-south-africa-unemployment-qlfs-2026.11.4) | [kaggle.com/datasets/elroyparkinson/south-africa-unemployment-qlfs](https://www.kaggle.com/datasets/elroyparkinson/south-africa-unemployment-qlfs) |
+| `south-africa-inflation-cpi` | [Downloads](https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi) · [latest figures](https://mzansidata.co.za/topics/economy#inflation) · [inflation since 1922](https://mzansidata.co.za/posts/inflation-since-1922) | [mzansidata-south-africa-inflation-cpi-2026.11.4](https://archive.org/details/mzansidata-south-africa-inflation-cpi-2026.11.4) | [kaggle.com/datasets/elroyparkinson/south-africa-inflation-cpi](https://www.kaggle.com/datasets/elroyparkinson/south-africa-inflation-cpi) |
 
 Charts and explainers built on these tables: https://mzansidata.co.za.
 
