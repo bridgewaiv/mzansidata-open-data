@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "To cite the whole collection, please use the Zenodo concept DOI below, which always points to the latest version. To cite one package, use that package's own CITATION.cff, which names its publisher's source (Statistics South Africa or Anthropic)."
+type: dataset
+title: "MzansiData open data: South African public statistics as documented CSV packages"
+authors:
+  - name: MzansiData
+    website: "https://mzansidata.co.za"
+doi: 10.5281/zenodo.24337957
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24337957
+    description: "Concept DOI: all versions, resolves to the latest"
+  - type: url
+    value: "https://mzansidata.co.za/data/downloads"
+    description: "Downloads, documentation and the latest version"
+url: "https://mzansidata.co.za/data/downloads"
+repository: "https://github.com/bridgewaiv/mzansidata-open-data"
+abstract: "Clean, documented CSV files of South African public data: Stats SA unemployment (QLFS), inflation (CPI) since 1922, mid-year population and the crime victims survey, and Claude usage from the Anthropic Economic Index. Each package carries its publisher's terms: Stats SA's copyright notice (acknowledge Stats SA as the source of the basic data) or CC BY 4.0. MzansiData's own documentation is CC BY 4.0."
+keywords:
+  - South Africa
+  - open data
+  - statistics
+  - Stats SA
+  - unemployment
+  - inflation
+  - population

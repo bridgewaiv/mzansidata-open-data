@@ -1,8 +1,14 @@
 # MzansiData open data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24337957.svg)](https://doi.org/10.5281/zenodo.24337957)
+
 Clean, documented CSV files of South African public data from MzansiData (https://mzansidata.co.za), a non-commercial site that turns South Africa's public data into charts and explainers. Every figure comes from the publishing body itself, and each package names the publisher's file it comes from, with the address, retrieval date and, where we downloaded a file, its SHA-256.
 
 We publish a dataset here only when its publisher's own terms allow it, and each package carries those terms. The same files are on https://mzansidata.co.za/data/downloads.
+
+## How to cite
+
+Cite the package you used with its own `CITATION.cff` (each names its publisher's source). To cite the whole collection, use its Zenodo DOI, which always points to the latest version: MzansiData, *MzansiData open data*, Zenodo, https://doi.org/10.5281/zenodo.24337957. Every release has its own version DOI on that page. GitHub's "Cite this repository" button uses `CITATION.cff` at the top of this repository.
 
 ## Packages
 
