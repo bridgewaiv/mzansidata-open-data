@@ -2,7 +2,7 @@
 
 Stats SA's Consumer Price Index (CPI, P0141) as one tidy table: the official headline inflation rate every month since January 1922 and the headline index since 1980; the index and annual rate for the total country, rural areas, the nine provinces and the 13 spending groups since 2008; and core inflation for September 2026, all to the September 2026 release.
 
-Version 2026.11.1, released 2026-11-08. Published by MzansiData (https://mzansidata.co.za), a non-commercial South African public-data site. Download page: https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi
+Version 2026.11.3, released 2026-11-10. Published by MzansiData (https://mzansidata.co.za), a non-commercial South African public-data site. Download page: https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi
 
 ## Terms of use
 
@@ -12,7 +12,7 @@ Licence of the data: Stats SA copyright notice: use with acknowledgement of Stat
 
 ## How to cite
 
-MzansiData (2026). Inflation in South Africa: Stats SA's Consumer Price Index, monthly, headline since 1922, provinces and groups since 2008, version 2026.11.1. Source of the basic data: Statistics South Africa, Consumer Price Index (P0141), September 2026 release, its time series and the CPI History. Tables are MzansiData's own processing of the data. https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi
+MzansiData (2026). Inflation in South Africa: Stats SA's Consumer Price Index, monthly, headline since 1922, provinces and groups since 2008, version 2026.11.3. Source of the basic data: Statistics South Africa, Consumer Price Index (P0141), September 2026 release, its time series and the CPI History. Tables are MzansiData's own processing of the data. https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi
 
 ## Files
 
@@ -42,7 +42,7 @@ CSV files are UTF-8, comma separated, with a full stop as the decimal mark. A bl
 
 - Stats SA, P0141 CPI (COICOP) from January 2008, release 2026 09, ASCII time series. https://www.statssa.gov.za/timeseriesdata/Ascii/P0141%20-%20CPI(COICOP)%20from%20Jan%202008%20(202609).zip (retrieved 2026-11-08, 245695 bytes, SHA-256 `c2d0e7af15171284952526f42b0fc887459395ec0067d05a1efcd73361da05de`). Used: Monthly indices (December 2024 = 100), January 2008 to September 2026: all items for all urban areas, total country, rural areas and the nine provinces; the 13 COICOP divisions for all urban areas. Downloaded in a browser from Stats SA's site (its files sit behind a bot check).
 - Stats SA, Consumer Price Index, September 2026, statistical release P0141 (embargoed until 21 October 2026, 10:00). https://www.statssa.gov.za/publications/P0141/P0141September2026.pdf (retrieved 2026-11-08, 531659 bytes, SHA-256 `0ee131034f62c195c09f4ca0ce14b5d09c38dd5c85cec0428de6b585f497ab36`). Used: Table A (main indices, including core), Table B (headline index and rates, 2022 to 2026), Table E (indices for all urban areas by group). Downloaded in a browser from Stats SA's site (its files sit behind a bot check).
-- Stats SA, CPI History: Table B1, CPI headline index numbers (December 2024 = 100) since 1980, and Table B2, CPI headline year-on-year rates since 1911 (published with P0141 September 2026). https://www.statssa.gov.za/publications/P0141/CPIHistory.pdf (retrieved 2026-11-08, 429959 bytes, SHA-256 `b6b21ee9fec543fb7785ee05284393c17759ef4667d9629f080167cb5666a4b2`). Used: Headline index from January 1980 to December 2007, and the official inflation rates from January 1922. Downloaded in a browser from Stats SA's site (its files sit behind a bot check).
+- Stats SA, CPI History: Table B1, CPI headline index numbers (December 2024 = 100) since 1980, and Table B2, CPI headline year-on-year rates since 1911 (published with P0141 September 2026). https://www.statssa.gov.za/publications/P0141/CPIHistory.pdf (retrieved 2026-11-08, 429959 bytes, SHA-256 `b6b21ee9fec543fb7785ee05284393c17759ef4667d9629f080167cb5666a4b2`). Used: Headline index from January 1980 to December 2008, and the official inflation rates from January 1922. Downloaded in a browser from Stats SA's site (its files sit behind a bot check).
 
 ## Notes
 

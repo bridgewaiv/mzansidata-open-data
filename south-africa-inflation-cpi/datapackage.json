@@ -2,8 +2,8 @@
  "name": "south-africa-inflation-cpi",
  "title": "Inflation in South Africa: Stats SA's Consumer Price Index, monthly, headline since 1922, provinces and groups since 2008",
  "description": "Stats SA's Consumer Price Index (CPI, P0141) as one tidy table: the official headline inflation rate every month since January 1922 and the headline index since 1980; the index and annual rate for the total country, rural areas, the nine provinces and the 13 spending groups since 2008; and core inflation for September 2026, all to the September 2026 release.",
- "version": "2026.11.1",
- "created": "2026-11-08",
+ "version": "2026.11.3",
+ "created": "2026-11-10",
  "homepage": "https://mzansidata.co.za/data/downloads#south-africa-inflation-cpi",
  "keywords": [
   "South Africa inflation rate",
@@ -57,7 +57,7 @@
    "retrieved": "2026-11-08",
    "bytes": 429959,
    "sha256": "b6b21ee9fec543fb7785ee05284393c17759ef4667d9629f080167cb5666a4b2",
-   "note": "Used: Headline index from January 1980 to December 2007, and the official inflation rates from January 1922. Downloaded in a browser from Stats SA's site (its files sit behind a bot check)."
+   "note": "Used: Headline index from January 1980 to December 2008, and the official inflation rates from January 1922. Downloaded in a browser from Stats SA's site (its files sit behind a bot check)."
   }
  ],
  "resources": [
